@@ -9,7 +9,7 @@
 
 <h2>⚡ CyberSecurity + Networking Projects:</h2>
 
-- <b>Coming Soon: [As recommended by <a href="https://www.youtube.com/watch?v=P9wz0Sted_I">Josh Madakor</a>]</b>
+- <b>Coming Soon: <br>[As recommended by <a href="https://www.youtube.com/watch?v=P9wz0Sted_I">Josh Madakor</a>]</b>
   - [Setting up a SIEM in Azure](https://www.google.com)
   - [Setting up a Virtual Active Directory Environment in Azure](https://www.google.com)
   - [Creating a File Integrity Monitor](https://www.google.com)
