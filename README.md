@@ -1,9 +1,9 @@
 <h1>Hi, I'm Austin! <br/>
 <a href="https://www.sans.edu/cyber-security-programs/bachelors-degree/?msc=main-nav">Full Time CyberSecurity Undergrad Student @SANS.edu.</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Coding and Scripting Projects:</h2>
 
-- <b>Programming:</b>
+- <b>High Level:</b>
   - [Object Oriented Programming (Python) at Utah Valley University](https://github.com/vp0331/INFO1200-Assignments)
   - [Object Oriented Programming/Scripting (Python, C) at SANS.edu GFACT Course](https://github.com/ajordan-cyber/GFACTprojects)
 
