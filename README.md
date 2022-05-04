@@ -5,6 +5,7 @@
 
 - <b>Python</b>
   - [Basic Object Oriented Programming at Utah Valley University](https://github.com/vp0331/INFO1200-Assignments)
+  - [Basic Object Oriented Programming and Scripting at SANS.edu GFACT Course](https://github.com/ajordan-cyber/GFACTprojects)
 
 <h2>⚡ CyberSecurity + Networking Projects:</h2>
 
