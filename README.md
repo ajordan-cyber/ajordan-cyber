@@ -1,5 +1,5 @@
 <h1>Hi, I'm Austin! <br/>
-<a href="https://www.sans.edu/cyber-security-programs/bachelors-degree/?msc=main-nav">Full Time CyberSecurity Undergrad Student @SANS.edu.</a></h1>
+<a href="https://www.sans.edu/cyber-security-programs/bachelors-degree/?msc=main-nav">Full Time CyberSecurity Undergrad @SANS.edu.</a></h1>
 
 <h2>👨‍💻 Programming and Scripting Projects:</h2>
 
