@@ -1,7 +1,7 @@
 <h1>Hi, I'm Austin! <br/>
 <a href="https://www.sans.edu/cyber-security-programs/bachelors-degree/?msc=main-nav">Full Time CyberSecurity Undergrad @SANS.edu</a></h1>
 
-<h2>👨‍💻 Programming and Scripting Projects:</h2>
+<h2>👨‍💻Programming + Scripting:</h2>
 
 - <b>What I've Done:</b>
   - [Python @UVU.edu](https://github.com/vp0331/INFO1200-Assignments)
@@ -11,7 +11,7 @@
   - [Example 2](https://github.com/ajordan-cyber/GFACTprojects)
 
 
-<h2>⚡ CyberSecurity + Networking Projects:</h2>
+<h2>⚡CyberSecurity + Networking:</h2>
 
 - <b>Coming Soon: <br>[As recommended by <a href="https://www.youtube.com/watch?v=P9wz0Sted_I">Josh Madakor</a>]</b>
   - [Setting up a SIEM in Azure](https://www.youtube.com/watch?v=RoZeVbbZ0o0&list=PLqBeiU46hx1H--SNfTrohTOWeqkK-M2Y0&index=7)
